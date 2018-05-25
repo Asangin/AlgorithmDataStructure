@@ -23,7 +23,7 @@ package algorithm;
  *  
  * The algorithm is called Bubble Sort, because with each iteration the smallest element in the list bubbles up to the top, just like a water bubble rises up to the water surface.
  *  
- * @author d_scryll
+ * @author Skryl using (SoloLearn material)
  *
  */
 

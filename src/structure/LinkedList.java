@@ -3,7 +3,7 @@ package structure;
 
 /**
  * 
- * @author d_scryll
+ * @author Skryl (using SoloLearn material)
  * 
  * Linked List
  * write down the advantages and disadvantages

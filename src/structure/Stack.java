@@ -4,7 +4,7 @@ package structure;
 
 /**
  * 
- * @author d_scryll
+ * @author Skryl (using SoloLearn material)
  * 
  * implement example of usability of stack 
  *

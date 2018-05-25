@@ -17,7 +17,7 @@ package algorithm;
  * Step 2: As 18 < 24, we divide the array into two parts and continue working with the subarray to the right: [24, 42] 
  * Step 3: The same process is repeated, and as 42 > 24, we consider the left subarray: [24], which is the match! 
  * 
- * @author d_scryll
+ * @author Skryl (using SoloLearn material)
  *
  */
 public class LinearBinarySearch {
