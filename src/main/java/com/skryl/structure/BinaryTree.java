@@ -1,9 +1,9 @@
-package structure;
+package com.skryl.structure;
 
 import java.util.Random;
 
 public class BinaryTree {
-	class Node {
+	static class Node {
         int data;
         Node left, right;
 

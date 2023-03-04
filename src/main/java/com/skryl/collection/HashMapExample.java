@@ -1,4 +1,4 @@
-package collection;
+package com.skryl.collection;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -9,7 +9,7 @@ public class HashMapExample {
 		String[] str = {"list1", "list2", "list3"};
 		ArrayList<Map<String, String>> group;
 		
-		Map<String, String> m = null;
+		Map<String, String> m;
 		group = new ArrayList<>();
 		
 		for (String st : str) {
@@ -17,6 +17,6 @@ public class HashMapExample {
 			m.put("groupName", st);
 			group.add(m);
 		}
-		System.out.println(group.toString());
+		System.out.println(group);
 	}
 }

@@ -1,4 +1,4 @@
-package structure;
+package com.skryl.structure;
 
 public class HashTable {
 	static class HashEntry {
@@ -13,8 +13,9 @@ public class HashTable {
         
         public HashMap() {
         table = new HashEntry[127];
-            for (int k = 0; k < TABLE_SIZE; k++)
-            table[k] = null;
+            for (int k = 0; k < TABLE_SIZE; k++) {
+                table[k] = null;
+            }
         }
         
         int HashFunc(String value) {

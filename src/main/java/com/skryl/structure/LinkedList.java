@@ -1,13 +1,10 @@
-package structure;
+package com.skryl.structure;
 
 
 /**
- * 
- * @author Skryl (using SoloLearn material)
- * 
  * Linked List
  * write down the advantages and disadvantages
- *
+ * @author Skryl (using SoloLearn material)
  */
 
 public class LinkedList {

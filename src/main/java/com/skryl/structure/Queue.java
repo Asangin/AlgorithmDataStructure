@@ -1,4 +1,4 @@
-package structure;
+package com.skryl.structure;
 
 public class Queue {
 	static class Node {
