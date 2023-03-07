@@ -5,3 +5,4 @@ doc/
 .project
 .vscode/
 target/
+.idea
